@@ -8,6 +8,7 @@ There are many different operators that can be used to change the format of your
 Some of the easiest things to do are:
 - *italicizing* font with *
 - **bolding** font by using **
-- or make a list using - 
+- create headings with # using more # for a smaller header and less # for a larger one
+- creat a list using - or 1. if you want a numbered list
 
 
