@@ -1,6 +1,7 @@
 # **My Reading Notes**
 
 ## **About Me**
+![IMG_0190](https://user-images.githubusercontent.com/104344814/165158585-2c82acc3-4646-48fb-bfff-8ba10c0c8ea5.jpeg)
 Hello everyone! I am Matthew Larkin and this is my reading notes page.
 
 ### **Growth Mindset**
@@ -15,3 +16,4 @@ To me, the growth mindset is all about constant improvement and enabling yoursel
 Email: matthewlarkin8@gmail.com
 Phone: (253)820-0190
 <https://github.com/mattlarkin8>
+
