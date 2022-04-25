@@ -3,7 +3,7 @@
 ## About Me
 
 
-Talk about growth mindset,
+Talk about growth mindset.
 
 1. Reminder 1
 2. Reminder 2
