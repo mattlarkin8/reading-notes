@@ -1,7 +1,7 @@
 # **My Reading Notes**
 
 ## **About Me**
-<img src="https://user-images.githubusercontent.com/104344814/165158585-2c82acc3-4646-48fb-bfff-8ba10c0c8ea5.jpeg" width="200" height="250" />
+<img src="https://user-images.githubusercontent.com/104344814/165158585-2c82acc3-4646-48fb-bfff-8ba10c0c8ea5.jpeg" width="200" height="250" />  
 Hello everyone! I am Matthew Larkin and this is my reading notes page.
 
 ### **Growth Mindset**
