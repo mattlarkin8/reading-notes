@@ -14,4 +14,4 @@ Phone: (253)820-0190
 ### **Table of Contents**
 [Growth Mindset](Growth%20Mindset)  
 [Read: 01 - Learning Markdown](Markdown.md)  
-[Read: 02 - The Coder's Computer](Coder.md)
+[Read: 02 - The Coder's Computer](Coder.md)  
