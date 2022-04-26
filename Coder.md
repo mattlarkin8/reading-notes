@@ -1,3 +1,3 @@
-# **Read: 02 - The Coder's Computer**
+# **The Coder's Computer**
 
 ### **Text Editors**
