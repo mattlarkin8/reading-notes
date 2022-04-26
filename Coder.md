@@ -23,3 +23,4 @@ Be mindful of the difference between Relative and Absolute paths. Both can be us
 You can use the arrow keys to navigate up and down between previous entries and tab can be used to auto complete a path or command.
 <br />
 <br />
+Return to [README](README.md).
