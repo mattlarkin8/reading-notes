@@ -17,7 +17,7 @@ cd -Change Directory allows you to move up and down through the directory tree o
 
 ### **CLI Tips**
 Remember that Linux is case sensitive.  
-Be careful with spaces in file names. Use quotes or escape charaters to circumvent the issue.  
+Be careful with spaces in file names. Use quotes or escape characters to circumvent the issue.  
 Some files and directories are hidden and require you to use ls -a for all to display them.  
 Be mindful of the difference between Relative and Absolute paths. Both can be used but you need to be aware of which you are working with to use the proper commands.  
 You can use the arrow keys to navigate up and down between previous entries and tab can be used to auto complete a path or command.  
