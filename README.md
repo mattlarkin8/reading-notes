@@ -18,5 +18,5 @@ Phone: (253)820-0190
 <https://github.com/mattlarkin8>
 
 ### **Links to other pages**
-[Read: 01 - Learning Markdown](Markdown.md)
+[Read: 01 - Learning Markdown](Markdown.md)  
 [Read: 02 - The Coder's Computer](Coder.md)
