@@ -16,4 +16,8 @@ An image is added using ![Image Text](Image filepath or URL). You need to be mor
 The easiest way to add a [link](link) is by using <> to encapsulate a URL or email address. It can be more complicated when you want to do something more advanced like adding titles to your [link](link "Example Title"). This requires you to use the full format [Link name or text](Link URL "Title").
 
 ### **What have we learned?**
-Markdown is pretty easy to get into because of it's simplicity. It lets a beginner start to play around and format things how they want right away. However, it has more advanced commands and will only become a more powerful tool the longer you use it. With some practice, the user is going to be able to put together great looking webpages by simply using the full potential of Markdown.
+Markdown is pretty easy to get into because of it's simplicity. It lets a beginner start to play around and format things how they want right away. However, it has more advanced commands and will only become a more powerful tool the longer you use it. With some practice, the user is going to be able to put together great looking webpages by simply using the full potential of Markdown.  
+  
+  
+  
+Return to [README](README.md).
