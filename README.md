@@ -5,7 +5,6 @@
 Hello everyone! I am Matthew Larkin and this is my reading notes repository. I'm a US Air Force veteran that has worked in IT for seven years. I am pretty new to coding, but I'm really excited to learn and continue to imrove myself. I look forward to working with everyone as we all work toward our goal.
 
 <br />
-
 Please feel free to contact me if you have any questions or want to work together on something. I'm sure we can both help each other out.
 
 ### **Contact Info**
