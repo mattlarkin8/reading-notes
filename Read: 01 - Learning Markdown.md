@@ -13,4 +13,4 @@ Some of the easiest things to do are:
 
 Some more advanced things that can be done are adding images and links.
 An image is added using ![Image Text](Image filepath or URL). You need to be more careful when adding an image because the syntax is more complicated and proper sizing can be tough to manage without using HTML commands.  
-The easiest way to add a [link](link) is by using <> to encapsulate a URL or email address. It can be more complicated when you want to do something more advanced like adding titles to your [link](link "Example Title").
+The easiest way to add a [link](link) is by using <> to encapsulate a URL or email address. It can be more complicated when you want to do something more advanced like adding titles to your [link](link "Example Title"). This requires you to use the full format [Link name or text](Link URL "Title").
