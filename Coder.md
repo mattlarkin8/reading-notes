@@ -10,16 +10,16 @@ While a text editor does pretty much what the name suggests, an IDE is a whole s
 There are many different applications that you can use to write your code and while some of them have very helpful features, in the end the best thing to use is what feels good and works for you. If you think it's the best text editor, then it is at the very least the best text editor for you.
 
 ### **CLI Command List**
-echo -Displays which shell you are using (most commonly bash).
-pwd -Print Working Directory displays the directory you are currently in.
-ls -List command shows a list of the files and directories contained in the specified directory. Can be used with variables, most commonly -l for a long listing.
+echo -Displays which shell you are using (most commonly bash).  
+pwd -Print Working Directory displays the directory you are currently in.  
+ls -List command shows a list of the files and directories contained in the specified directory. Can be used with variables, most commonly -l for a long listing.  
 cd -Change Directory allows you to move up and down through the directory tree or go directly to a certain location if you use the absolute path.
 
 ### **CLI Tips**
-Remember that Linux is case sensitive.
-Be careful with spaces in file names. Use quotes or escape charaters to circumvent the issue.
-Some files and directories are hidden and require you to use ls -a for all to display them.
-Be mindful of the difference between Relative and Absolute paths. Both can be used but you need to be aware of which you are working with to use the proper commands.
+Remember that Linux is case sensitive.  
+Be careful with spaces in file names. Use quotes or escape charaters to circumvent the issue.  
+Some files and directories are hidden and require you to use ls -a for all to display them.  
+Be mindful of the difference between Relative and Absolute paths. Both can be used but you need to be aware of which you are working with to use the proper commands.  
 You can use the arrow keys to navigate up and down between previous entries and tab can be used to auto complete a path or command.
 <br />
 <br />
