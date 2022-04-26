@@ -18,4 +18,4 @@ Phone: (253)820-0190
 <https://github.com/mattlarkin8>
 
 ### **Links to other pages**
-[Read: 01 - Learning Markdown](Read:%2001%20-%20Learning%20Markdown.md)
+[Read: 01 - Learning Markdown](https://github.com/mattlarkin8/reading-notes/blob/main/Read:%2001%20-%20Learning%20Markdown.md)
