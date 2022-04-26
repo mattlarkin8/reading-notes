@@ -9,7 +9,7 @@ Some of the easiest things to do are:
 - *italicizing* font with *
 - **bolding** font by using **
 - create headings with # using more # for a smaller header and less # for a larger one
-- creat a list using - or 1. if you want a numbered list
+- create a list using - or 1. if you want a numbered list
 
 Some more advanced things that can be done are adding images and links.
 An image is added using ![Image Text](Image filepath or URL). You need to be more careful when adding an image because the syntax is more complicated and proper sizing can be tough to manage without using HTML commands.  
