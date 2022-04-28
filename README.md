@@ -20,3 +20,5 @@ Phone: (253)820-0190
 [Read: 02 - The Coder's Computer](Coder.md)  
 [Read: 03 - Revisions and the Cloud](Cloud.md)  
 [Read: 04 - Structure web pages with HTML](HTML.md)  
+[Read: 05 - Design web pages with CSS](CSS.md)  
+[Read: 06 - Dynamic web pages with JavaScript](JS.md)  
