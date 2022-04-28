@@ -22,3 +22,5 @@ Phone: (253)820-0190
 [Read: 04 - Structure web pages with HTML](HTML.md)  
 [Read: 05 - Design web pages with CSS](CSS.md)  
 [Read: 06 - Dynamic web pages with JavaScript](JS.md)  
+[Read: 07 - Programming with JavaScript](Functions.md)  
+[Read: 08 - Operators and Loops](Loops.md)  
