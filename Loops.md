@@ -35,7 +35,7 @@ A bitwise operator treats their operands as a set of 32 bits (zeros and ones), r
 
 ### **Logical Operators**
 
-Logical operators are typically used with Boolean (logical) values; when they are, they return a Boolean value. However, the && and || operators actually return the value of one of the specified operands, so if these operators are used with non-Boolean values, they may return a non-Boolean value.
+Logical operators are typically used with Boolean (logical) values; when they are, they return a Boolean value. However, the `&&` and `||` operators actually return the value of one of the specified operands, so if these operators are used with non-Boolean values, they may return a non-Boolean value.
 
 ### **String Operators**
 
