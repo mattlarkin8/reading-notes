@@ -71,13 +71,13 @@ The `in` operator returns true if the specified property is in the specified obj
 
 `propNameOrNumber in objectName`
 
-where `propNameOrNumber` is a string, numeric, or symbol expression representing a property name or array index, and `objectName` is the name of an object.
+Where `propNameOrNumber` is a string, numeric, or symbol expression representing a property name or array index, and `objectName` is the name of an object.
 
 ## **Loops**
 
 Loops offer a quick and easy way to do something repeatedly. There are many different kinds of loops, but they all essentially do the same thing: they repeat an action some number of times.
 
-### **for statement**
+### **For Statement**
 
 A `for` loop repeats until a specified condition evaluates to false.
 
@@ -94,7 +94,7 @@ The following steps occur when you execute a for loop:
 4. If present, the update expression `incrementExpression` is executed.
 5. Control returns to Step 2.
 
-### **while statement**
+### **While Statement**
 
 A `while` statement executes its statements as long as a specified condition evaluates to `true`.
 
@@ -109,9 +109,9 @@ The condition test occurs before `statement` in the loop is executed. If the con
 
 Multiple statements can be executed by using a block statement to group them.
 
-### **do while statement**
+### **Do-While Statement**
 
-The `do...while` statement repeats until a specified condition evaluates to false.
+The `do-while` statement repeats until a specified condition evaluates to false.
 
 ```JS
 do
