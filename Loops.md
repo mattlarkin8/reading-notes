@@ -105,7 +105,7 @@ while (condition)
 
 If the `condition` becomes `false`, `statement` within the loop stops executing and control passes to the statement following the loop.
 
-The condition test occurs before `statement` in the loop is executed. If the condition returns `true`, `statement` is executed and the `condition` is tested again. If the condition returns `false`, execution stops, and control is passed to the statement following `while`. 
+The condition test occurs before `statement` in the loop is executed. If the condition returns `true`, `statement` is executed and the `condition` is tested again. If the condition returns `false`, execution stops, and control is passed to the statement following `while`.
 
 Multiple statements can be executed by using a block statement to group them.
 
