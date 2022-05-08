@@ -13,9 +13,9 @@ Email: matthewlarkin8@gmail.com
 Phone: (253)820-0190  
 <https://github.com/mattlarkin8>
 
-### **Table of Contents**
+### **Code 102 Reading Notes**
 
-[Growth Mindset](Growth%20Mindset)  
+[Growth Mindset](Growth%20Mindset.md)  
 [Read: 01 - Learning Markdown](Markdown.md)  
 [Read: 02 - The Coder's Computer](Coder.md)  
 [Read: 03 - Revisions and the Cloud](Cloud.md)  
@@ -24,3 +24,21 @@ Phone: (253)820-0190
 [Read: 06 - Dynamic web pages with JavaScript](JS.md)  
 [Read: 07 - Programming with JavaScript](Functions.md)  
 [Read: 08 - Operators and Loops](Loops.md)  
+
+### **Code 201 Reading Notes**
+
+[Read: 01 - Introductory HTML and JavaScript](class-01.md)  
+[2](class-02.md)  
+[3](class-03.md)  
+[4](class-04.md)  
+[5](class-05.md)  
+[6](class-06.md)  
+[7](class-07.md)  
+[8](class-08.md)  
+[9](class-09.md)  
+[10](class-10.md)  
+[11](class-11.md)  
+[12](class-12.md)  
+[13](class-13.md)  
+[14](class-14.md)  
+[15](class-15.md)  
