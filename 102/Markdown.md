@@ -23,4 +23,4 @@ The easiest way to add a [link](https://mattlarkin8.github.io/reading-notes/Mark
 Markdown is pretty easy to get into because of it's simplicity. It lets a beginner start to play around and format things how they want right away. However, it has more advanced commands and will only become a more powerful tool the longer you use it. With some practice, the user is going to be able to put together great looking webpages by simply using the full potential of Markdown.  
 <br />
 <br />
-Return to [README](README.md).
+Return to [README](reading-notes/README.md).
