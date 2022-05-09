@@ -15,7 +15,6 @@ Phone: (253)820-0190
 
 ### **Code 102 Reading Notes**
 
-[Growth Mindset](102/Growth%20Mindset.md)  
 [Read: 01 - Learning Markdown](102/Markdown.md)  
 [Read: 02 - The Coder's Computer](102/Coder.md)  
 [Read: 03 - Revisions and the Cloud](102/Cloud.md)  
