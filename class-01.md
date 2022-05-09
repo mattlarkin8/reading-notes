@@ -16,4 +16,7 @@ Content management systems and templates - Can I employ something like in the ex
 
 I have never seen the concept of a "conditional comment" before, but it makes me interested in its possible uses in automating the editing of your web page based on the user.
 
-I know `document.write()` can be used to add something to the HTML code based on user input, but I'm sure there should a better way to change your webpage with user input and I'm interested to know more.
+I know `document.write()` can be used to add something to the HTML code based on user input, but I'm sure there should a better way to change your webpage with user input and I'm interested to know more.  
+<br/>
+<br/>
+Return to [README](README.md).
