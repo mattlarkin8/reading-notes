@@ -15,19 +15,19 @@ Phone: (253)820-0190
 
 ### **Code 102 Reading Notes**
 
-[Growth Mindset](102/Growth%20Mindset.md)  
-[Read: 01 - Learning Markdown](102/Markdown.md)  
-[Read: 02 - The Coder's Computer](102/Coder.md)  
-[Read: 03 - Revisions and the Cloud](102/Cloud.md)  
-[Read: 04 - Structure web pages with HTML](102/HTML.md)  
-[Read: 05 - Design web pages with CSS](102/CSS.md)  
-[Read: 06 - Dynamic web pages with JavaScript](102/JS.md)  
-[Read: 07 - Programming with JavaScript](102/Functions.md)  
-[Read: 08 - Operators and Loops](102/Loops.md)  
+[Growth Mindset](/102/Growth%20Mindset.md)  
+[Read: 01 - Learning Markdown](/102/Markdown.md)  
+[Read: 02 - The Coder's Computer](/102/Coder.md)  
+[Read: 03 - Revisions and the Cloud](/102/Cloud.md)  
+[Read: 04 - Structure web pages with HTML](/102/HTML.md)  
+[Read: 05 - Design web pages with CSS](/102/CSS.md)  
+[Read: 06 - Dynamic web pages with JavaScript](/102/JS.md)  
+[Read: 07 - Programming with JavaScript](/102/Functions.md)  
+[Read: 08 - Operators and Loops](/102/Loops.md)  
 
 ### **Code 201 Reading Notes**
 
-[Read: 01 - Introductory HTML and JavaScript](201/class-01.md)  
+[Read: 01 - Introductory HTML and JavaScript](/201/class-01.md)  
 [2](class-02.md)  
 [3](class-03.md)  
 [4](class-04.md)  
