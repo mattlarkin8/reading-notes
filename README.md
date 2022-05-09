@@ -15,19 +15,19 @@ Phone: (253)820-0190
 
 ### **Code 102 Reading Notes**
 
-[Growth Mindset](reading-notes/102/Growth%20Mindset.md)  
-[Read: 01 - Learning Markdown](reading-notes/102/Markdown.md)  
-[Read: 02 - The Coder's Computer](reading-notes/102/Coder.md)  
-[Read: 03 - Revisions and the Cloud](reading-notes/102/Cloud.md)  
-[Read: 04 - Structure web pages with HTML](reading-notes/102/HTML.md)  
-[Read: 05 - Design web pages with CSS](reading-notes/102/CSS.md)  
-[Read: 06 - Dynamic web pages with JavaScript](reading-notes/102/JS.md)  
-[Read: 07 - Programming with JavaScript](reading-notes/102/Functions.md)  
-[Read: 08 - Operators and Loops](reading-notes/102/Loops.md)  
+[Growth Mindset](https://github.com/mattlarkin8/reading-notes/102/Growth%20Mindset.md)  
+[Read: 01 - Learning Markdown](https://github.com/mattlarkin8/reading-notes/102/Markdown.md)  
+[Read: 02 - The Coder's Computer](https://github.com/mattlarkin8/reading-notes/102/Coder.md)  
+[Read: 03 - Revisions and the Cloud](https://github.com/mattlarkin8/reading-notes/102/Cloud.md)  
+[Read: 04 - Structure web pages with HTML](https://github.com/mattlarkin8/reading-notes/102/HTML.md)  
+[Read: 05 - Design web pages with CSS](https://github.com/mattlarkin8/reading-notes/102/CSS.md)  
+[Read: 06 - Dynamic web pages with JavaScript](https://github.com/mattlarkin8/reading-notes/102/JS.md)  
+[Read: 07 - Programming with JavaScript](https://github.com/mattlarkin8/reading-notes/102/Functions.md)  
+[Read: 08 - Operators and Loops](https://github.com/mattlarkin8/reading-notes/102/Loops.md)  
 
 ### **Code 201 Reading Notes**
 
-[Read: 01 - Introductory HTML and JavaScript](reading-notes/201/class-01.md)  
+[Read: 01 - Introductory HTML and JavaScript](https://github.com/mattlarkin8/reading-notes/201/class-01.md)  
 [2](class-02.md)  
 [3](class-03.md)  
 [4](class-04.md)  
