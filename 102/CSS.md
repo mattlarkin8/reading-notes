@@ -73,7 +73,3 @@ Inline CSS is the most different and least preferred of the three options. It is
 ```
 
 You can see here that for each element you want to style, you must define it with an individual style attribute. Multiple styling commands can be in the same line, but they must be separated by a `;`. This method is tedious and also clutters your HTML file, which is why it is not recommended to be used often.
-
-<br />
-<br />
-Return to [README](README.md).
