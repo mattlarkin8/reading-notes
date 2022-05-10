@@ -16,8 +16,4 @@ All JavaScript variables must have unique names and these are some general rules
 - Names are case sensitive (z and Z are different variables)
 - Reserved words (like JavaScript keywords) cannot be used as names
 
-In JavaScript, the equal sign `=` is an "assignment" operator, not an "equal to" operator. The "equal to" operator is `==` in JavaScript. JavaScript variables can hold numbers and text values. Text values are called strings and a `"string"` is written in quotes. Numbers are written without quotes, but if you do write a number in quotes it will be stored as a string. You can perform many different arithmetic functions by using operators like `+` `-` `*` `/`.  
-
-<br />
-<br />
-Return to [README](README.md).
+In JavaScript, the equal sign `=` is an "assignment" operator, not an "equal to" operator. The "equal to" operator is `==` in JavaScript. JavaScript variables can hold numbers and text values. Text values are called strings and a `"string"` is written in quotes. Numbers are written without quotes, but if you do write a number in quotes it will be stored as a string. You can perform many different arithmetic functions by using operators like `+` `-` `*` `/`.
