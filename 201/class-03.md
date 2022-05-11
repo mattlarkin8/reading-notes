@@ -21,8 +21,7 @@ Definition lists are a bit different. They use the `<dl>` element for the list, 
   <dt>Ordered List</dt>
   <dd>Uses <ol> and <li> to create a numbered list.</dd>
   <dt>Definition List</dt>
-  <dd>Uses <dl> start the list. <dt> defines the list term <br/>
-    and <dd> is used to provide the definition of that term.</dd>
+  <dd>Uses <dl> start the list. <dt> defines the list term and <dd> is used to provide the definition of that term.</dd>
 </dl>
 ```
 
