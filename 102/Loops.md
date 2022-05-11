@@ -134,7 +134,3 @@ Use the `break` statement to terminate a loop, switch, or in conjunction with a 
 break;
 break [label];
 ```
-
-<br/>
-<br/>
-Return to [README](README.md).

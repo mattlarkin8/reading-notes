@@ -17,6 +17,3 @@ C is for Commit. After adding the file, you can do `git status` to confirm that 
 P is for Push. After you have committed the changes, you can run `git status` again to confirm that the commit was successful and you are ready to push the files to the remote repository. Run `git push origin main` to push the changes to the remote storage. If you have multiple branches in your repository, then it will be important for you to set the right target location in the push command. You should see the push complete successfully and can run `git status` to check that everything shows up to date now.  
 
 With that you should be able to successfully setup and sync your local files to a remote repository.
-<br />
-<br />
-Return to [README](README.md).

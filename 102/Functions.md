@@ -21,6 +21,3 @@ The code inside the function is executed when something invokes or calls the fun
 - Automatically (self invoked)
 
 When JavaScript reaches a return statement, the function will stop executing. If the function was invoked from a statement, JavaScript will "return" to execute the code after the invoking statement. Functions often compute a return value. The return value is returned back to the caller. Functions are very useful because once created, they can be used repeatedly with different arguments to produce different results.
-<br />
-<br />
-Return to [README](README.md).
