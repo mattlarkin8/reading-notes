@@ -28,7 +28,7 @@ Phone: (253)820-0190
 
 [Read: 01 - Introductory HTML and JavaScript](201/class-01.md)  
 [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/class-02.md)  
-[3](201/class-03.md)  
+[Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](201/class-03.md)  
 [4](201/class-04.md)  
 [5](201/class-05.md)  
 [6](201/class-06.md)  
