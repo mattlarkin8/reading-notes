@@ -16,7 +16,7 @@ Definition lists are a bit different. They use the `<dl>` element for the list, 
 
 <dl>
   <dt>Unordered List</dt>
-  <dd>Uses \<ul> and \<li> to create an unordered list.</dd>
+  <dd>Uses `<ul>` and `<li>` to create an unordered list.</dd>
   <dt>Ordered List</dt>
   <dd>Uses \<ol> and \<li> to create a numbered list.</dd>
   <dt>Definition List</dt>
