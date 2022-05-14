@@ -31,7 +31,7 @@ Phone: (253)820-0190
 [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](201/class-03.md)  
 [Read: 04 - HTML Links, CSS Layout, JS Functions](201/class-04.md)  
 [Read: 05 - HTML Images; CSS Color & Text](201/class-05.md)  
-[6](201/class-06.md)  
+[Read: 06 - JS Object Literals; The DOM](201/class-06.md)  
 [7](201/class-07.md)  
 [8](201/class-08.md)  
 [9](201/class-09.md)  
