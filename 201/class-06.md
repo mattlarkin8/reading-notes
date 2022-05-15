@@ -1,5 +1,9 @@
 # **Problem Domain, Objects, and DOM**
 
+## **Problem Domain**
+
+The Problem Domain is essential to understand in order to implement a solution. It can be quite challenging to understand the problem, but it is very important to know the question before you think of an answer. It is worth it to take the time to familiarize yourself with the whatever problem domain you are facing. Getting to know the problem helps you to better understand what you need to make to solve that problem. It is also quite helpful to break the problem domain down into to smaller issues if possible. This can help you understand and solve things step by step.
+
 ## **Objects**
 
 Objects group variables and functions. When part of an object, variables are called properties and functions are called methods. The easiest way to create an object is using literal notation.
