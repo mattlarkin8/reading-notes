@@ -25,7 +25,7 @@ You can access the properties and methods of an object using dot notation.
 
 ## **Document Object Module**
 
-The DOM controls how browsers create an HTMl page model and how JS can access and update the web page. When a web page is loaded int the browser, a model of the page is created and stored in the browsers memory. This model is known as the DOM tree. You can traverse through the DOM tree and  select different elements using tag names, class attributes, and CSS selectors. It is possible to add or remove HTML content from the DOM, along with other edits you may want to make. You can also add and remove elements from the DOM tree.
+The DOM controls how browsers create an HTML page model and how JS can access and update the web page. When a web page is loaded int the browser, a model of the page is created and stored in the browsers memory. This model is known as the DOM tree. You can traverse through the DOM tree and  select different elements using tag names, class attributes, and CSS selectors. It is possible to add or remove HTML content from the DOM, along with other edits you may want to make. You can also add and remove elements from the DOM tree.
 
 ## **Things I want to know more about**
 
