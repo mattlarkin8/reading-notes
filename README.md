@@ -33,7 +33,7 @@ Phone: (253)820-0190
 [Read: 05 - HTML Images; CSS Color & Text](201/class-05.md)  
 [Read: 06 - JS Object Literals; The DOM](201/class-06.md)  
 [Read: 07 - HTML Tables; JS Constructor Functions](201/class-07.md)  
-[8](201/class-08.md)  
+[Read: 08 - More CSS Layout](201/class-08.md)  
 [9](201/class-09.md)  
 [10](201/class-10.md)  
 [11](201/class-11.md)  
