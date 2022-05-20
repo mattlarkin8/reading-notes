@@ -1,0 +1,15 @@
+# **Debugging**
+
+Knowing where your code went wrong is first step to fixing it. It is important to find where an error is occurring and then start to figure out what is causing that to happen. One of the first things to consider is the execution order of your code. It's a basic concept but can be easy to forget when creating a large script. Code runs from top to bottom and if you have accidentally placed something out of order, then oops you've broken it. It is also important to keep in mind how different functions rely on each other for input and how that order of execution works.
+
+Execution context and variable scope are also important to keep in mind. There are a few different levels of context and scope. It's important to be aware of what variables can be called where and when something is allowed to execute. Be sure that if a variable is scoped to a function that you return it from that function or otherwise export the data from that function.
+
+Using `console.log();` to write data from your script to the console can be very useful for debugging. It allows you to see values of variable at different stages in your script and will usually give you a good clue about where the error is occurring based on the values you receive. Typing the variables in the console to check their contents can also be useful. Combining these together is a good way to start debugging and finding where you have a problem in your code.
+
+You can use breakpoints to pause the execution of your code at certain pints and check the values of variable at that stage in the execution. You can set up multiple breakpoints to step your way through the code and go back and forth between different stages of execution. This can be quite helpful for finding where and when something stops functioning the way you intended.
+
+After (or maybe before) all of the complicated troubleshooting you can think of, it can be important to go back and make sure it wasn't something easy you missed. An extra character, missing semi-colon, wrong number of `=` for what you wanted to do, or just wrong capitalization. Along with all the complex problems and things that could go wrong there are also many simple things that are maybe even more likely to be the cause of an issue. Be sure that you aren't wasting time on something you thought was a huge issue when all you actually needed was to capitalize one letter.
+
+## **Things I want to know more about**
+
+I had never heard of breakpoints before, but I'm interested in getting some practice in using them. It seems like with breakpoints I could do something similar to what I do now with a bunch of console.logs, but I can cut down on the number of console.logs used and not have to run through the code multiple times. I like the level of control that breakpoints seem to offer and I think it could be quite useful to me for debugging in the future.
