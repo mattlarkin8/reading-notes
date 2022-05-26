@@ -39,5 +39,4 @@ Phone: (253)820-0190
 [Read: 11 - Assorted Topics](201/class-11.md)  
 [Read: 12 - Docs for the HTML Canvas Element & Chart.js](201/class-12.md)  
 [Read: 13 - Local Storage](201/class-13.md)  
-[14](201/class-14.md)  
-[15](201/class-15.md)  
+[Read: 14a - CSS Transforms, Transitions, and Animations](201/class-14.md)
