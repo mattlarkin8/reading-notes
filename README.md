@@ -13,7 +13,7 @@ Email: matthewlarkin8@gmail.com
 Phone: (253)820-0190  
 <https://github.com/mattlarkin8>
 
-### **Code 102 Reading Notes**
+### **Code 102 - Intro to Software Development**
 
 [Read: 01 - Learning Markdown](102/Markdown.md)  
 [Read: 02 - The Coder's Computer](102/Coder.md)  
@@ -24,7 +24,7 @@ Phone: (253)820-0190
 [Read: 07 - Programming with JavaScript](102/Functions.md)  
 [Read: 08 - Operators and Loops](102/Loops.md)  
 
-### **Code 201 Reading Notes**
+### **Code 201 - Foundations of Software Development**
 
 [Read: 01 - Introductory HTML and JavaScript](201/class-01.md)  
 [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/class-02.md)  
