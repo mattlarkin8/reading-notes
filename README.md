@@ -43,8 +43,8 @@ Phone: (253)820-0190
 
 ### **Code 301 - Intermediate Software Development**
 
-[Read: Class 01](301/class-01.md)  
-[Read: Class 02](301/class-02.md)  
+[Read: Class 01 - Introduction to React and Components](301/class-01.md)  
+[Read: Class 02 - State and Props](301/class-02.md)  
 [Read: Class 03](301/class-03.md)  
 [Read: Class 04](301/class-04.md)  
 [Read: Class 05](301/class-05.md)  
