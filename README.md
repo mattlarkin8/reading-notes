@@ -3,7 +3,7 @@
 ## **Intro**
 
 <img src="https://user-images.githubusercontent.com/104344814/165158585-2c82acc3-4646-48fb-bfff-8ba10c0c8ea5.jpeg" width="200" height="250" />  
-Hello everyone! I am Matthew Larkin and this is my reading notes repository. I'm a US Air Force veteran that has worked in IT for over six years. I am pretty new to coding, but I'm really excited to learn and continue to imrove myself. I look forward to working with everyone as we all work toward our goal.
+Hello everyone! I am Matthew Larkin and this is my reading notes repository. I'm a US Air Force veteran that has worked in IT for over six years. I am pretty new to coding, but I'm really excited to learn and continue to improve myself. I look forward to working with everyone as we all work toward our goal.
 
 Please feel free to contact me if you have any questions or want to work together on something.
 
@@ -42,3 +42,19 @@ Phone: (253)820-0190
 [Read: 14a - CSS Transforms, Transitions, and Animations](201/class-14.md)
 
 ### **Code 301 - Intermediate Software Development**
+
+[Read: Class 01](301/class-01.md)
+[Read: Class 02](301/class-02.md)
+[Read: Class 03](301/class-03.md)
+[Read: Class 04](301/class-04.md)
+[Read: Class 05](301/class-05.md)
+[Read: Class 06](301/class-06.md)
+[Read: Class 07](301/class-07.md)
+[Read: Class 08](301/class-08.md)
+[Read: Class 09](301/class-09.md)
+[Read: Class 10](301/class-10.md)
+[Read: Class 11](301/class-11.md)
+[Read: Class 12](301/class-12.md)
+[Read: Class 13](301/class-13.md)
+[Read: Class 14](301/class-14.md)
+[Read: Class 15](301/class-15.md)
