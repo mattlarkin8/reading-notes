@@ -23,15 +23,15 @@ Components offer many advantages including reduced cost, ease of development and
 
 ## **What is Props and How to Use it in React**
 
-### **What is “props” short for?**
+### What is “props” short for?
 
 Props is short for properties and is used to pass data between components.
 
-### **How are props used in React?**
+### How are props used in React?
 
 In React, props are used to define an attribute and its corresponding data. The usage is very similar to passing arguments into a function in JavaScript. This allows you to have one component produce different results based on the content you passed it using props.
 
-### **What is the flow of props?**
+### What is the flow of props?
 
 Props data is read-only and they can only be passed from a parent to a child component. This means the child can't alter the data passed to it and props *do not* open some kind of communication channel between components.
 
