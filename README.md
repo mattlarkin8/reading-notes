@@ -48,7 +48,7 @@ Phone: (253)820-0190
 [Read: Class 03 - Passing Functions as Props](301/class-03.md)  
 [Read: Class 04 - React and Forms](301/class-04.md)  
 [Read: Class 05 - Putting it all together](301/class-05.md)  
-[Read: Class 06](301/class-06.md)  
+[Read: Class 06 - NODE.JS](301/class-06.md)  
 [Read: Class 07](301/class-07.md)  
 [Read: Class 08](301/class-08.md)  
 [Read: Class 09](301/class-09.md)  
