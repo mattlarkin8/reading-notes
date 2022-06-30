@@ -56,5 +56,5 @@ Phone: (253)820-0190
 [Read: Class 11 - Mongo and Mongoose](301/class-11.md)  
 [Read: Class 12 - CRUD](301/class-12.md)  
 [Read: Class 13 - More CRUD](301/class-13.md)  
-[Read: Class 14](301/class-14.md)  
+[Read: Class 14 - Diversity & Inclusion in the Tech Industry](301/class-14.md)  
 [Read: Class 15](301/class-15.md)
