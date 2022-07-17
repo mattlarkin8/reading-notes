@@ -8,4 +8,15 @@ SQL is a form of relational database where information is stored in tables. Thes
 
 Below are all the completed practice lessons using SQL Bolt.
 
-<img src="./401/img/SQL1.png" width="200" height="250" />  
+<img src="img/SQL1.PNG" width="400" height="250" />  
+<img src="img/SQL2.PNG" width="400" height="250" />  
+<img src="img/SQL3.PNG" width="400" height="250" />  
+<img src="img/SQL4.PNG" width="400" height="250" />  
+<img src="img/SQL5.PNG" width="400" height="250" />  
+<img src="img/SQL6.PNG" width="400" height="250" />  
+<img src="img/SQL13.PNG" width="400" height="250" />  
+<img src="img/SQL14.PNG" width="400" height="250" />  
+<img src="img/SQL15.PNG" width="400" height="250" />  
+<img src="img/SQL16.PNG" width="400" height="250" />  
+<img src="img/SQL17.PNG" width="400" height="250" />  
+<img src="img/SQL18.PNG" width="400" height="250" />  
