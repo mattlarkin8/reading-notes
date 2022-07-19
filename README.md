@@ -62,6 +62,7 @@ Phone: (253)820-0190
 
 [Intro to SQL](401/SQL.md)  
 [Terminal Practice](401/Terminal.md)  
+[Engineering Readings](401/Engineering.md)  
 [Read: Class 01](401/class-01.md)  
 [Read: Class 02](401/class-02.md)  
 [Read: Class 03](401/class-03.md)  
