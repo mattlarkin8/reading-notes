@@ -65,7 +65,7 @@ Phone: (253)820-0190
 [Engineering Readings](401/Engineering.md)  
 [Read: Class 01](401/class-01.md)  
 [Read: Class 02 - Testing and Modules](401/class-02.md)  
-[Read: Class 03](401/class-03.md)  
+[Read: Class 03 - FileIO & Exceptions](401/class-03.md)  
 [Read: Class 04](401/class-04.md)  
 [Read: Class 05](401/class-05.md)  
 [Read: Class 06](401/class-06.md)  
