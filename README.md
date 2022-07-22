@@ -66,7 +66,6 @@ Phone: (253)820-0190
 [Read: Class 01 - Class 01 Reading](401/class-01.md)  
 [Read: Class 02 - Testing and Modules](401/class-02.md)  
 [Read: Class 03 - FileIO & Exceptions](401/class-03.md)  
-[Read: Class 04 - Class 04 Reading](401/class-04.md)  
 [Read: Class 06](401/class-06.md)  
 [Read: Class 07](401/class-07.md)  
 [Read: Class 08](401/class-08.md)  
